@@ -1,0 +1,15 @@
+.add-btn{
+    border: none;
+    background-color: #fe424d;
+}
+.form-label{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+/* body{
+    background-color: aquamarine;
+} */
+ body
+ {
+    font-family: "Plus Jakarta Sans", sans-serif;
+ }

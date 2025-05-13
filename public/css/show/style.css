@@ -1,0 +1,33 @@
+.btn-masher{
+    border: none;
+    background-color: #fe424d;
+    margin-right: 5px;
+}
+.show-img{
+    height: 35vh;
+    border-radius: 1rem;
+}
+.card-listing-top{
+    border: none;
+}
+.btns{
+    margin: 0 30px 0 15px;
+}
+.text{
+    text-transform: capitalize;
+}
+.head{
+    font-weight: 550;
+    text-transform: capitalize;
+}
+body
+{
+   font-family: "Plus Jakarta Sans", sans-serif;
+}
+#map{
+    height: 50vh;
+    width: 100%;
+}
+
+ 
+  
